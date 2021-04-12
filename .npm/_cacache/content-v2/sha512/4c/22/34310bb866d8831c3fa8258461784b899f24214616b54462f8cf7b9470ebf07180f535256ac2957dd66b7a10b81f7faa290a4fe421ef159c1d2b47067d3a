@@ -1,0 +1,1512 @@
+{
+  "_id" : "@sapflp/generator-launchpad-module",
+  "_rev" : "1-0",
+  "name" : "@sapflp/generator-launchpad-module",
+  "description" : "Generate Create launchpad module",
+  "dist-tags" : {
+    "latest" : "1.20.2"
+  },
+  "versions" : {
+    "1.9.0-20201201160218" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.9.0-20201201160218",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.9.0-20201201160218.tgz",
+        "shasum" : "dc31806c0d24b85c25a9df03997634416b164c67"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.9.0-20201201160218",
+      "displayName" : "Launchpad Module"
+    },
+    "1.7.0-20200923114042" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.7.0-20200923114042",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.7.0-20200923114042.tgz",
+        "shasum" : "4549676031e6419ae3685ba1c6742f6907045d31"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.7.0-20200923114042",
+      "displayName" : "Launchpad Module"
+    },
+    "1.5.0-20200707140423" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.5.0-20200707140423",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.5.0-20200707140423.tgz",
+        "shasum" : "0c1e6dfdc5fb74f0f6a24c6f7530ade798e027bf"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.5.0-20200707140423",
+      "displayName" : "Launchpad Module"
+    },
+    "1.12.0-20210208083046" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.12.0-20210208083046",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.12.0-20210208083046.tgz",
+        "shasum" : "57dd3edc75c7d455200eeee887c59ef3bec4d999"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.9.0-20210207153028",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.12.0-20210208083046",
+      "displayName" : "Launchpad Module"
+    },
+    "1.3.0-20200614062838" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.3.0-20200614062838",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200614062838.tgz",
+        "shasum" : "96c3109beed1f750c191668a45fbc13ee0dfe291"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200614062838"
+    },
+    "1.3.0-20200618174038" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.3.0-20200618174038",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200618174038.tgz",
+        "shasum" : "6e91040bffe95d1ab4566570507d3345ef841ea4"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200618174038",
+      "displayName" : "Launchpad Module"
+    },
+    "1.12.0-20210217083910" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.12.0-20210217083910",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.12.0-20210217083910.tgz",
+        "shasum" : "ee55687b0f7e015ad736064e2f71416bd02265f6"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.9.0-20210207153028",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.12.0-20210217083910",
+      "displayName" : "Launchpad Module"
+    },
+    "1.1.0-20200514174333" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200514174333",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200514174333.tgz",
+        "shasum" : "7c6c256e264b58a7f94bfcebc892b7f5ed14ce0f"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200514174333"
+    },
+    "1.11.0-20210112094055" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.11.0-20210112094055",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.11.0-20210112094055.tgz",
+        "shasum" : "d7d203040852ba8e0b53b361ee9f9d61d2c013b7"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.11.0-20210112094055",
+      "displayName" : "Launchpad Module"
+    },
+    "1.12.0-20210211083728" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.12.0-20210211083728",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.12.0-20210211083728.tgz",
+        "shasum" : "c8b4d7255fd5574bc2f88e32a5c4ba27b04d29bb"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.9.0-20210207153028",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.12.0-20210211083728",
+      "displayName" : "Launchpad Module"
+    },
+    "1.7.0-20200923124659" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.7.0-20200923124659",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.7.0-20200923124659.tgz",
+        "shasum" : "f378771c529b6293a712b8919d6c60fd95d89d6b"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.7.0-20200923124659",
+      "displayName" : "Launchpad Module"
+    },
+    "1.5.0-20200709120359" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.5.0-20200709120359",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.5.0-20200709120359.tgz",
+        "shasum" : "b702fef0b406e57e60231c0d9044a5483cccf684"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.5.0-20200709120359",
+      "displayName" : "Launchpad Module"
+    },
+    "1.4.0-20200621093031" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.4.0-20200621093031",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.4.0-20200621093031.tgz",
+        "shasum" : "63dbff40e5777d66160627ccdd3066d10a7671ec"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.4.0-20200621093031",
+      "displayName" : "Launchpad Module"
+    },
+    "1.6.0-20200728115820" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.6.0-20200728115820",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.6.0-20200728115820.tgz",
+        "shasum" : "1a5ea668b94d7afaad1e4cc5ca8020e415fcb821"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.6.0-20200728115820",
+      "displayName" : "Launchpad Module"
+    },
+    "1.20.2" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.20.2",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.20.2.tgz",
+        "shasum" : "65770d88d1c2f78039c7bbf79432a08d551a7437"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "git+ssh://git@github.wdf.sap.corp/Portal-CF/generator-flp#DisableFLPwithManagedApprouter",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.20.2",
+      "displayName" : "Launchpad Module"
+    },
+    "1.3.0-20200611190259" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.3.0-20200611190259",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200611190259.tgz",
+        "shasum" : "ed9a73775668c7dfa2b6f922d72148594b5bef87"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200611190259"
+    },
+    "1.3.0-20200628114944" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.3.0-20200628114944",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200628114944.tgz",
+        "shasum" : "00bb19bc72c19f3777a726e5bea70cbc60cb88d6"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200628114944",
+      "displayName" : "Launchpad Module"
+    },
+    "1.13.0-20210216143554" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.13.0-20210216143554",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.13.0-20210216143554.tgz",
+        "shasum" : "4cec8437aa05ed4b7a190c03101666f58fe612e2"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.9.0-20210207153028",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.13.0-20210216143554",
+      "displayName" : "Launchpad Module"
+    },
+    "1.4.0-20200619054915" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.4.0-20200619054915",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.4.0-20200619054915.tgz",
+        "shasum" : "c461559b00ac66144b46ef2cd6677550cea82789"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.4.0-20200619054915",
+      "displayName" : "Launchpad Module"
+    },
+    "1.5.0" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.5.0",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.5.0.tgz",
+        "shasum" : "936a12fcffb51e3a04fe08604bdbf83e14703f35"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.5.0",
+      "displayName" : "Launchpad Module"
+    },
+    "1.14.0-20210401072054" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.14.0-20210401072054",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.14.0-20210401072054.tgz",
+        "shasum" : "3eafd479da48f30ec085016dbf8539620f7a9dd5"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.9.0-20210207153028",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.14.0-20210401072054",
+      "displayName" : "Launchpad Module"
+    },
+    "1.8.0-20201008130640" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.8.0-20201008130640",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.8.0-20201008130640.tgz",
+        "shasum" : "8dbf3fcadc593235e7a897433c26ab4373bfeae0"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.8.0-20201008130640",
+      "displayName" : "Launchpad Module"
+    },
+    "1.8.0-20201008134442" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.8.0-20201008134442",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.8.0-20201008134442.tgz",
+        "shasum" : "8c3af79616f4df98c5732c7429f92e2998dd66a0"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.8.0-20201008134442",
+      "displayName" : "Launchpad Module"
+    },
+    "1.0.0-20200505154038+1216697-cf5b856abce6dee700b9ba27627506570" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.0.0-20200505154038+1216697-cf5b856abce6dee700b9ba27627506570",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.0.0-20200505154038.tgz",
+        "shasum" : "5089a04a08997c9db09a9517a1d50c2a2069bbe7"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.0.0-20200505154038+1216697-cf5b856abce6dee700b9ba27627506570"
+    },
+    "1.8.0-20200930071813" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.8.0-20200930071813",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.8.0-20200930071813.tgz",
+        "shasum" : "637bf0246e79007f6b73d3a4b7e04a4b167d0644"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.8.0-20200930071813",
+      "displayName" : "Launchpad Module"
+    },
+    "1.10.0-20201221124638" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.10.0-20201221124638",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.10.0-20201221124638.tgz",
+        "shasum" : "17276b06582807a68d74684838181ea53b9a0a79"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.10.0-20201221124638",
+      "displayName" : "Launchpad Module"
+    },
+    "1.3.0-20200615065143" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.3.0-20200615065143",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200615065143.tgz",
+        "shasum" : "f377c4ac40d66b680324ce038a9b0162c210980c"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200615065143",
+      "displayName" : "Launchpad Module"
+    },
+    "1.14.0-20210401094309" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.14.0-20210401094309",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.14.0-20210401094309.tgz",
+        "shasum" : "aa01f65b1c79c1e2e6f1491dbfcaa4ff6f95d529"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.9.0-20210207153028",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.14.0-20210401094309",
+      "displayName" : "Launchpad Module"
+    },
+    "1.2.0-20200621093139" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.2.0-20200621093139",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.2.0-20200621093139.tgz",
+        "shasum" : "131556bc94b0968fb12648dcca94a9e9a6b059db"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.2.0-20200621093139"
+    },
+    "1.1.0-20200517103119" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200517103119",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200517103119.tgz",
+        "shasum" : "7241673d723f3fa3a124f67c926d265f706abe79"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200517103119"
+    },
+    "1.6.0-20200728141147" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.6.0-20200728141147",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.6.0-20200728141147.tgz",
+        "shasum" : "956d9cc8fbb33f7d739002bf7fb047d83ac6a428"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.6.0-20200728141147",
+      "displayName" : "Launchpad Module"
+    },
+    "1.7.0-20200921105722" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.7.0-20200921105722",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.7.0-20200921105722.tgz",
+        "shasum" : "e9da5ee294e098118f644b69b318eb8d84308827"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.7.0-20200921105722",
+      "displayName" : "Launchpad Module"
+    },
+    "1.3.0-20200611192529" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.3.0-20200611192529",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200611192529.tgz",
+        "shasum" : "f24a3b0eebee1c558ad17631eda175dd60415521"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200611192529"
+    },
+    "1.1.0-20200514170038" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200514170038",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200514170038.tgz",
+        "shasum" : "64d804acab34ab76464fcd8291d074a1465f52d5"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200514170038"
+    },
+    "1.6.0-20200729130855" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.6.0-20200729130855",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.6.0-20200729130855.tgz",
+        "shasum" : "774e65098fd13b198336cd5b1c9db200566ff350"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.6.0-20200729130855",
+      "displayName" : "Launchpad Module"
+    },
+    "1.6.0-20200730081811" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.6.0-20200730081811",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.6.0-20200730081811.tgz",
+        "shasum" : "05c5f5a0625f5cf9ce0b01a8d09a040be1dd70e3"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.6.0-20200730081811",
+      "displayName" : "Launchpad Module"
+    },
+    "1.1.0-20200507230925+f8fc233636a798849b0d78dce46837555bfd3056" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200507230925+f8fc233636a798849b0d78dce46837555bfd3056",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200507230925.tgz",
+        "shasum" : "a1aea2b9d5281979565021a9de57744568828d81"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200507230925+f8fc233636a798849b0d78dce46837555bfd3056"
+    },
+    "1.1.0-20200514115156" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200514115156",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200514115156.tgz",
+        "shasum" : "682b15530aba53865df308e10f994737c6834e89"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200514115156"
+    },
+    "1.0.0-20200506111451+5165-a5042cabe67992260f08ebda1fd860f3aa8e" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.0.0-20200506111451+5165-a5042cabe67992260f08ebda1fd860f3aa8e",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.0.0-20200506111451.tgz",
+        "shasum" : "2e7ba0a19dcce0c24586cc6e576d64a103440097"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.0.0-20200506111451+5165-a5042cabe67992260f08ebda1fd860f3aa8e"
+    },
+    "1.7.0-20200921081746" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.7.0-20200921081746",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.7.0-20200921081746.tgz",
+        "shasum" : "eea0365e9f3e1ac7684f27947804ccf9ded17457"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.7.0-20200921081746",
+      "displayName" : "Launchpad Module"
+    },
+    "1.9.0-20201202103134" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.9.0-20201202103134",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.9.0-20201202103134.tgz",
+        "shasum" : "61ddd774d8abec9d4d20482cee72631fca627bde"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.9.0-20201202103134",
+      "displayName" : "Launchpad Module"
+    },
+    "1.1.0-20200517144017" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200517144017",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200517144017.tgz",
+        "shasum" : "4594c9ef11693c87d969ea1c87b38e382c33912a"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200517144017"
+    },
+    "1.4.0-20200628110827" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.4.0-20200628110827",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.4.0-20200628110827.tgz",
+        "shasum" : "37c58aa3f3a1c78179ac9abc8a883d4c64ddc68a"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.4.0-20200628110827",
+      "displayName" : "Launchpad Module"
+    },
+    "1.0.0-20200504090145+1216697-cf5b856abce6dee700b9ba27627506570" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.0.0-20200504090145+1216697-cf5b856abce6dee700b9ba27627506570",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.0.0-20200504090145.tgz",
+        "shasum" : "821004fb6e0de123e8a6f46f09a4350d77008bb4"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.0.0-20200504090145+1216697-cf5b856abce6dee700b9ba27627506570"
+    },
+    "1.7.0-20200921100308" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.7.0-20200921100308",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.7.0-20200921100308.tgz",
+        "shasum" : "9452f7dad4be13c82bf15d74ddbaaef7430485a7"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.7.0-20200921100308",
+      "displayName" : "Launchpad Module"
+    },
+    "1.1.0-20200519114427" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200519114427",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200519114427.tgz",
+        "shasum" : "43eaa3d6cb4d70742d3496aa3bbadd0436b16c34"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200519114427"
+    },
+    "1.3.0-20200621093117" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.3.0-20200621093117",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.3.0-20200621093117.tgz",
+        "shasum" : "dc1e623cf6b27cc1c0c4c095f62b78d291c37759"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.3.0-20200621093117",
+      "displayName" : "Launchpad Module"
+    },
+    "1.1.0-20200517083959" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.1.0-20200517083959",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.1.0-20200517083959.tgz",
+        "shasum" : "564e6f00c9f76ef1930175c65537342507e59e2c"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.1.0-20200517083959"
+    },
+    "1.2.0-20200521230859" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.2.0-20200521230859",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.2.0-20200521230859.tgz",
+        "shasum" : "e769053dda951c1263c9d0f13a484cd62e052ccf"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.1.0-20200514110337",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.2.0-20200521230859"
+    },
+    "1.6.0-20200729063645" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.6.0-20200729063645",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.6.0-20200729063645.tgz",
+        "shasum" : "d3161e443d011da67b12cd3bccf10ec378ed557d"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.6.0-20200729063645",
+      "displayName" : "Launchpad Module"
+    },
+    "1.8.0-20200930122045" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.8.0-20200930122045",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.8.0-20200930122045.tgz",
+        "shasum" : "8f31fc938e98e359d57cd47aab3dc123909b228f"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.8.0-20200930122045",
+      "displayName" : "Launchpad Module"
+    },
+    "1.9.0-20201202083954" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.9.0-20201202083954",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.9.0-20201202083954.tgz",
+        "shasum" : "75b5ad500fd9ecfe24d742c3e3b2155510840484"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.9.0-20201202083954",
+      "displayName" : "Launchpad Module"
+    },
+    "1.0.0" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Use this feature to create SAP Fiori launchpad sites on Cloud Foundry",
+      "version" : "1.0.0",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.0.0.tgz",
+        "shasum" : "86a8e6674bb0e7c80af5c4fe6bef2f504366053f"
+      },
+      "dependencies" : {
+        "generator-base-mta-module" : "0.0.12",
+        "@sapflp/generator-flp" : "1.0.0-20200501093651",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "3.2.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.0.0"
+    },
+    "1.10.0-20201221121948" : {
+      "name" : "@sapflp/generator-launchpad-module",
+      "description" : "Generate Create launchpad module",
+      "version" : "1.10.0-20201221121948",
+      "engines" : {
+        "node" : "10.16.0"
+      },
+      "main" : "index.js",
+      "dist" : {
+        "tarball" : "https://common.repositories.sap.ondemand.com:443/artifactory/api/npm/flp-generator/@sapflp/generator-launchpad-module/-/@sapflp/generator-launchpad-module-1.10.0-20201221121948.tgz",
+        "shasum" : "9450334eca0ccf7e2a67f62818b31b36fde1b3fc"
+      },
+      "dependencies" : {
+        "@sapflp/generator-flp" : "1.5.0-20200727053126",
+        "generator-base-mta-module" : "0.0.12",
+        "mta-lib" : "0.1.0",
+        "uuid" : "^3.3.2",
+        "yeoman-generator" : "4.12.0"
+      },
+      "bundledDependencies" : [ "mta-lib", "generator-base-mta-module", "@sapflp/generator-flp" ],
+      "files" : [ "generators" ],
+      "scripts" : {
+        "preRelease" : "npm pack"
+      },
+      "_id" : "@sapflp/generator-launchpad-module@1.10.0-20201221121948",
+      "displayName" : "Launchpad Module"
+    }
+  },
+  "time" : {
+    "1.9.0-20201201160218" : "2020-12-01T16:14:07.406Z",
+    "1.7.0-20200923114042" : "2020-09-23T11:51:17.115Z",
+    "1.5.0-20200707140423" : "2020-07-07T14:13:29.834Z",
+    "1.12.0-20210208083046" : "2021-02-08T08:40:31.234Z",
+    "1.3.0-20200614062838" : "2020-06-14T06:38:45.729Z",
+    "1.3.0-20200618174038" : "2020-06-18T17:51:13.189Z",
+    "1.12.0-20210217083910" : "2021-02-17T08:48:24.105Z",
+    "1.1.0-20200514174333" : "2020-05-14T18:03:00.305Z",
+    "1.11.0-20210112094055" : "2021-01-12T09:51:55.975Z",
+    "1.12.0-20210211083728" : "2021-02-11T08:49:30.491Z",
+    "modified" : "2021-04-01T09:52:58.279Z",
+    "1.7.0-20200923124659" : "2020-09-23T13:00:16.696Z",
+    "1.5.0-20200709120359" : "2020-07-09T12:14:10.162Z",
+    "1.4.0-20200621093031" : "2020-06-21T09:39:35.018Z",
+    "1.6.0-20200728115820" : "2020-07-28T12:08:25.754Z",
+    "1.20.2" : "2021-02-24T12:21:55.268Z",
+    "1.3.0-20200611190259" : "2020-06-11T19:12:17.337Z",
+    "created" : "2020-05-04T08:22:38.413Z",
+    "1.3.0-20200628114944" : "2020-06-28T11:58:53.234Z",
+    "1.13.0-20210216143554" : "2021-02-16T14:44:59.613Z",
+    "1.4.0-20200619054915" : "2020-06-19T05:58:13.016Z",
+    "1.5.0" : "2020-07-28T10:31:14.714Z",
+    "1.14.0-20210401072054" : "2021-04-01T07:29:28.903Z",
+    "1.8.0-20201008130640" : "2020-10-08T13:18:37.278Z",
+    "1.8.0-20201008134442" : "2020-10-08T13:55:15.890Z",
+    "1.0.0-20200505154038+1216697-cf5b856abce6dee700b9ba27627506570" : "2020-05-05T16:26:14.652Z",
+    "1.8.0-20200930071813" : "2020-09-30T07:28:46.354Z",
+    "1.10.0-20201221124638" : "2020-12-21T12:57:27.357Z",
+    "1.3.0-20200615065143" : "2020-06-15T07:00:16.560Z",
+    "1.14.0-20210401094309" : "2021-04-01T09:52:58.279Z",
+    "1.2.0-20200621093139" : "2020-06-21T09:40:14.271Z",
+    "1.1.0-20200517103119" : "2020-05-17T10:43:58.557Z",
+    "1.6.0-20200728141147" : "2020-07-28T14:27:25.069Z",
+    "1.7.0-20200921105722" : "2020-09-21T11:08:16.035Z",
+    "1.3.0-20200611192529" : "2020-06-11T19:34:12.492Z",
+    "1.1.0-20200514170038" : "2020-05-14T17:26:45.813Z",
+    "1.6.0-20200729130855" : "2020-07-29T13:18:41.243Z",
+    "1.6.0-20200730081811" : "2020-07-30T08:27:04.562Z",
+    "1.1.0-20200507230925+f8fc233636a798849b0d78dce46837555bfd3056" : "2020-05-07T23:24:39.774Z",
+    "1.1.0-20200514115156" : "2020-05-14T12:27:35.302Z",
+    "1.0.0-20200506111451+5165-a5042cabe67992260f08ebda1fd860f3aa8e" : "2020-05-06T11:50:33.560Z",
+    "1.7.0-20200921081746" : "2020-09-21T08:27:58.656Z",
+    "1.9.0-20201202103134" : "2020-12-02T10:42:52.455Z",
+    "1.1.0-20200517144017" : "2020-05-17T14:53:33.992Z",
+    "1.4.0-20200628110827" : "2020-06-28T11:16:58.207Z",
+    "1.0.0-20200504090145+1216697-cf5b856abce6dee700b9ba27627506570" : "2020-05-04T10:01:04.991Z",
+    "1.7.0-20200921100308" : "2020-09-21T10:17:49.652Z",
+    "1.1.0-20200519114427" : "2020-05-19T12:14:33.324Z",
+    "1.3.0-20200621093117" : "2020-06-21T09:40:34.525Z",
+    "1.1.0-20200517083959" : "2020-05-17T08:53:40.992Z",
+    "1.2.0-20200521230859" : "2020-05-21T23:23:41.264Z",
+    "1.6.0-20200729063645" : "2020-07-29T06:46:24.745Z",
+    "1.8.0-20200930122045" : "2020-09-30T12:31:49.955Z",
+    "1.9.0-20201202083954" : "2020-12-02T08:51:03.534Z",
+    "1.0.0" : "2020-05-04T08:22:38.413Z",
+    "1.10.0-20201221121948" : "2020-12-21T12:34:04.975Z"
+  },
+  "users" : {
+  }
+}
