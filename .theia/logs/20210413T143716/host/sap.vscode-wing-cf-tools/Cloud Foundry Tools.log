@@ -1,0 +1,7 @@
+{
+  "exception": "connection is closed",
+  "label": "Cloud Foundry Tools.extension",
+  "level": "error",
+  "message": "activate <sap.vscode-wing-run-config> extension fails",
+  "time": "2021-04-13T14:38:02.478Z"
+}

@@ -7,5 +7,7 @@
          "path": "file:///home/user/projects/Git-for-ABAP"
       }
    ],
-   "settings": {}
+"settings": {
+    "launch": {}
+}
 }

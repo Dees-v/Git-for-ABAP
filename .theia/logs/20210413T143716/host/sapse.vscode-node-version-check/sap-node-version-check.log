@@ -1,0 +1,8 @@
+{
+  "code": "RPC_PROTOCOL_CLOSED",
+  "label": "sap-node-version-check",
+  "level": "error",
+  "message": "Could not initialize package.json diagnostics connection is closed",
+  "stack": "Error: connection is closed\n    at Object.create (/theia/node_modules/@theia/plugin-ext/lib/common/rpc-protocol.js:82:30)\n    at Object.<anonymous> (/theia/node_modules/@theia/plugin-ext/lib/common/rpc-protocol.js:108:56)\n    at Object.disposable.dispose (/theia/node_modules/@theia/core/lib/common/disposable.js:101:13)\n    at DisposableCollection.dispose (/theia/node_modules/@theia/core/lib/common/disposable.js:78:40)\n    at RPCProtocolImpl.dispose (/theia/node_modules/@theia/plugin-ext/lib/common/rpc-protocol.js:129:24)\n    at /theia/node_modules/@theia/plugin-ext/lib/hosted/node/plugin-host.js:142:21\n    at step (/theia/node_modules/@theia/plugin-ext/lib/hosted/node/plugin-host.js:48:23)\n    at Object.next (/theia/node_modules/@theia/plugin-ext/lib/hosted/node/plugin-host.js:29:53)\n    at fulfilled (/theia/node_modules/@theia/plugin-ext/lib/hosted/node/plugin-host.js:20:58)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "time": "2021-04-13T14:38:02.475Z"
+}
